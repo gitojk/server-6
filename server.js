@@ -1,3 +1,1 @@
-import { Hono } from 'jsr:@hono/hono';
-
-const app = new Hono();
+// 今回はクライアントサイドもルーティングもないので何もimportしない
